@@ -1,0 +1,7 @@
+main: vanish.Main
+version: 1.0
+author: V3lop5
+name: TribeVanish
+commands:
+  v:
+  vanish:
